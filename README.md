@@ -3,7 +3,7 @@
 **little wisdom.** is a minimal, installable random quote app built with HTML, CSS and vanilla JavaScript.
 Built for the CodeAlpha App Development Internship (Task 2).
 
-Live demo: _add your GitHub Pages link here_
+Live demo: https://wafa-yazeer.github.io/CodeAlpha_RandomQuoteGenerator/
 
 ## Required features
 - A random quote appears every time the app opens
@@ -56,7 +56,8 @@ icons/                  app icons
 - **Offline:** `sw.js` caches the app files. Change `CACHE_NAME` in it whenever you edit the app so installed copies update.
 
 ## Screenshots
-Add screenshots here: home, card styles, downloaded image, favorites, dark mode.
-
+| Home | Card styles | Downloaded image | Favorites | Dark mode |
+|---|---|---|---|---|
+| <img src="screenshots/home.png" width="160"> | <img src="screenshots/styles.png" width="160"> | <img src="screenshots/download.png" width="160"> | <img src="screenshots/favorites.png" width="160"> | <img src="screenshots/dark-mode.png" width="160"> |
 ## Tech
 HTML5, CSS3, JavaScript, Canvas API, Web Share API, Web Speech API, Service Worker, localStorage
